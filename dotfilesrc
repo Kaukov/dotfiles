@@ -1,0 +1,8 @@
+[dotfiles]
+repository = /home/k4uk0v/dotfiles
+ignore = [
+	'.git',
+	'.gitignore',
+	'.gitmodules',
+	'__pycache__']
+packages = ['config']
